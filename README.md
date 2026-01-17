@@ -29,4 +29,4 @@ since the top and bottom have different slopes, they produce different "bulges" 
 
 The final equation is:
 
-![Equation](formula.png)
+![Equation](FrenchFryEquation.png)
